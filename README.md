@@ -3,10 +3,10 @@
 1. output of ```PLAYERNO```, ```NAME``` of players born after 1960.
 2. output of ```PLAYERNO```, ```NAME``` and ```TOWN``` of all female players who do not reside in Strat- ford.
 3. output of player numbers of players who joined the club between 1970 and 1980.
-4. output of ```PlayerId```, ```Name```, ```Year of Birth``` of players born in a leap year.
+4. output of ```PLAYERNO```, ```Name```, ```Year of Birth``` of players born in a leap year.
 5. output of the penalty numbers of the penalties between 50,- and 100,-.
-6. output of ```PlayerId```, ```name``` of players who do not live in Stratford or Douglas.
-7. output of ```playerId``` and ```name``` of players whose name contains ```'is'```.
+6. output of ```PLAYERNO```, ```name``` of players who do not live in Stratford or Douglas.
+7. output of ```PLAYERNO``` and ```name``` of players whose name contains ```'is'```.
 8. output of all hobby players.
 ## 9 - 21 EmpDept queries.
 9. output of those employees who receive more commission than salary.
